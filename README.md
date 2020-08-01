@@ -9,4 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love subcultural pidgin languages.
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=timbedard)](https://github.com/anuraghazra/github-readme-stats)
+![timbedard's GitHub stats](https://github-readme-stats.vercel.app/api?username=timbedard&hide=stars&count_private=true&show_icons=true&theme=gruvbox)
+
+![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=timbedard&layout=compact)]
