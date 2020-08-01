@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, I'm Tim. I make stuff.
 
-<!--
-**timbedard/timbedard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on GitHub/AWS CI automation.
+- 🌱 I’m currently learning how JavaScript works.
+- 👯 I’m looking to collaborate on terminal productivity tools.
+- 🤔 I’m looking for help with [vim-envelop](https://github.com/timbedard/vim-envelop).
+- 💬 Ask me about (Neo)Vim, Python, or mechanical keyboards.
+- 📫 How to reach me: email
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love subcultural pidgin languages.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=timbedard)](https://github.com/anuraghazra/github-readme-stats)
